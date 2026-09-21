@@ -1,21 +1,16 @@
 ---
-title: "Reportes trimestrales"
+title: "Transición hacia Energías Renovables"
 image: foto_gato.jpg
 about:
-  template: jolla   # opciones: jolla, trestles, solana, marquee, broadside
+  template: jolla
   links:
     - icon: github
       text: GitHub
-      href: https://github.com
-    - icon: linkedin
-      text: LinkedIn
-      href: https://linkedin.com
-    - icon: telegram
-      text: Telegram
-      href: https://t.me
-    - icon: slack
-      text: Slack
-      href: https://slack.com/intl/es-mx/
+      href: https://github.com/AxelEduardoAlvaradoArce/Proyecto_Energias_Renovables
 ---
 
-En este sitio encontrarás los reportes que se realizaron para el proyecto...
+En este sitio presentamos el proyecto final del Módulo 8 del Diplomado *Introducción Analítica a la Ciencia de Datos*, en el que analizamos la transición hacia las energías renovables a nivel mundial.
+
+El proyecto estudia qué países han avanzado más rápido en la adopción de energías renovables y qué factores —como el desarrollo económico— se relacionan con una mayor penetración renovable, integrando datos de energía del *Statistical Review of World Energy* y del PIB per cápita del Banco Mundial.
+
+Aquí encontrarás las bases de datos utilizadas, el reporte completo del análisis y el dashboard con los resultados principales.
