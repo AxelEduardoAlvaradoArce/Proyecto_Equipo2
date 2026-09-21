@@ -1,43 +1,21 @@
 project:
   type: website
+  output-dir: docs
 
 website:
-  title: "Mi sitio de reportes"
+  title: "Transición hacia Energías Renovables"
   navbar:
     left:
-      - text: "Sobre este sitio"
+      - text: "Inicio"
         href: index.qmd
-  sidebar:
-    style: docked
-    contents:
-      - index.qmd
-      - section: "Primer reporte"
-        contents:
-          - mis_reportes/reporte-01.qmd
-      - section: "Segundo reporte"
-        contents:
-          - mis_reportes/reporte-02.qmd
-      - section: "Último reporte"
-        contents:
-          - mis_reportes/reporte-03.qmd
-      - section: "Reporte con dos lenguajes"
-        contents:
-          - mis_reportes/reporte-04.qmd
-      - section: "Reporte pero en slides"
-        contents:
-          - mis_reportes/slides-01.qmd
-      - section: "Reporte en slides embebido en el sitio"
-        contents:
-          - mis_reportes/ver-slides-01.qmd
-      - section: "Quinto reporte"
-        contents:
-          - mis_reportes/reporte-05.qmd
-      - section: "Sexto reporte"
-        contents:
-          - mis_reportes/reporte-06.qmd
-      - section: "Más reportes con gráficas"
-        contents:
-          - mis_reportes/reporte-07.qmd
+      - text: "Bases de datos"
+        href: mis_reportes/reporte-01.qmd
+      - text: "Reporte"
+        href: mis_reportes/reporte-06.qmd
+      - text: "Dashboard"
+        href: mis_reportes/reporte-07.qmd
+      - text: "Repositorio"
+        href: https://github.com/AxelEduardoAlvaradoArce/Proyecto_Energias_Renovables
 
 format:
   html:
