@@ -1,6 +1,6 @@
 Package: misitio
 Type: Package
-Title: Mi sitio web con Quarto
+Title: Transición hacia Energías Renovables - Sitio Quarto
 Version: 1.0.0
 Imports:
     dplyr,
@@ -8,15 +8,5 @@ Imports:
     knitr,
     rmarkdown,
     reticulate,
-    gghighlight,
-    palmerpenguins,
-    highcharter,
-    forecast,
-    ggalluvial,
-    geomtextpath,
-    gapminder,
-    gganimate,
-    gifski,
-    transformr,
-    kableExtra,
-    plotly
+    plotly,
+    kableExtra
