@@ -1,0 +1,7 @@
+---
+title: "Reporte"
+---
+
+El reporte completo del proyecto está disponible en formato PDF:
+
+[Ver / Descargar reporte (PDF)](reporte-modulo5.pdf)
