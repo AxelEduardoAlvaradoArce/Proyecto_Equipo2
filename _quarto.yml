@@ -11,9 +11,9 @@ website:
       - text: "Bases de datos"
         href: mis_reportes/reporte-01.qmd
       - text: "Reporte"
-        href: mis_reportes/reporte-06.qmd
-      - text: "Dashboard"
         href: mis_reportes/reporte-07.qmd
+      - text: "Dashboard"
+        href: mis_reportes/reporte-06.qmd
       - text: "Repositorio"
         href: https://github.com/AxelEduardoAlvaradoArce/Proyecto_Energias_Renovables
 
