@@ -60,4 +60,4 @@ jobs:
     steps:
       - name: Desplegar en GitHub Pages
         id: deployment
-        uses:
+        uses: actions/deploy-pages@v4
