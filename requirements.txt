@@ -1,6 +1,6 @@
 jupyter
 pandas
-polars
-matplotlib
 numpy
-statistics
+matplotlib
+seaborn
+scikit-learn
