@@ -1,0 +1,31 @@
+---
+title: "Bases de datos"
+---
+
+Para este proyecto se utilizaron dos fuentes de datos públicas: el **Statistical Review of World Energy** (Energy Institute), para la información energética, y el indicador de **PIB per cápita** del **Banco Mundial**, para la variable económica. A continuación se describe cada base y se enlaza a su archivo en el repositorio.
+
+## Fuentes de energía (Statistical Review of World Energy)
+
+De este archivo se seleccionaron tres hojas, cada una guardada como un CSV independiente:
+
+### TES per capita
+Suministro total de energía por habitante de cada país, año por año. Se usa como indicador de intensidad energética.
+
+[Descargar CSV](https://raw.githubusercontent.com/AxelEduardoAlvaradoArce/Proyecto_Energias_Renovables/main/tes_per_capita_raw.csv)
+
+### Ren power (excl hydro) — TWh
+Generación de electricidad a partir de fuentes renovables, sin incluir la hidroeléctrica, para cada país y año.
+
+[Descargar CSV](https://raw.githubusercontent.com/AxelEduardoAlvaradoArce/Proyecto_Energias_Renovables/main/renovables_excl_hidro_raw.csv)
+
+### Electricity Generation — TWh
+Generación total de electricidad de cada país y año, considerando todas las fuentes (carbón, gas, nuclear, hidroeléctrica, eólica, solar, etc.).
+
+[Descargar CSV](https://raw.githubusercontent.com/AxelEduardoAlvaradoArce/Proyecto_Energias_Renovables/main/generacion_electrica_raw.csv)
+
+## Fuente económica (Banco Mundial)
+
+### PIB per cápita, PPA
+PIB per cápita en paridad de poder adquisitivo de los países del mundo. Indicador `NY.GDP.PCAP.PP.CD`.
+
+[Descargar CSV](https://raw.githubusercontent.com/AxelEduardoAlvaradoArce/Proyecto_Energias_Renovables/main/pib_per_capita_ppp_raw.csv)
