@@ -1,5 +1,7 @@
 project:
   type: website
+  resources:
+    - mis_reportes/Reporte-modulo5.pdf
 
 website:
   title: "Transición hacia Energías Renovables"
