@@ -14,7 +14,7 @@ website:
       - text: "Reporte"
         href: mis_reportes/reporte.qmd
       - text: "Dashboard"
-        href: mis_reportes/reporte-06.qmd
+        href: Proyecto_M8_DIACD_Dash_V1.Rmd
       - text: "Repositorio"
         href: https://github.com/AxelEduardoAlvaradoArce/Proyecto_Energias_Renovables
 
