@@ -1,5 +1,5 @@
 ---
-title: "Análisis (Notebook)"
+title: "Notebook"
 ---
 
 Esta sección contiene el notebook con el análisis completo del proyecto, que abarca la obtención y limpieza de los datos, su exploración, la construcción de la variable objetivo y el modelado.
@@ -12,7 +12,7 @@ Esta sección contiene el notebook con el análisis completo del proyecto, que a
   </a>
   <a href="https://colab.research.google.com/drive/15a7QZhecJazQjVU7Zs8bv68NN9CbhQb0"
      target="_blank" class="btn"
-     style="background:#5B8E72; color:#fff; padding:12px 24px; border-radius:8px; text-decoration:none; font-weight:600; margin:4px;">
+     style="background:#285943; color:#fff; padding:12px 24px; border-radius:8px; text-decoration:none; font-weight:600; margin:4px;">
      Abrir en Colab
   </a>
 </div>
