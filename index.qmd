@@ -1,69 +1,10 @@
 ---
-pagetitle: "Transición hacia Energías Renovables"
-toc: false
-page-layout: full
+title: "Transición hacia Energías Renovables"
+image: escudo_unam.png
+about:
+  template: jolla
+  links:
+    - icon: github
+      text: GitHub
+      href: https://github.com/AxelEduardoAlvaradoArce/Proyecto_Energias_Renovables
 ---
-
-::: {.hero}
-<h1 class="hero-title">Transición hacia Energías Renovables</h1>
-<p class="hero-sub">Un análisis de datos sobre la adopción global de energías limpias y los factores que la impulsan</p>
-<p class="hero-meta">Proyecto final · Módulo 8 · Diplomado en Ciencia de Datos · UNAM</p>
-:::
-
-::: {.intro}
-Este sitio presenta el proyecto final del Módulo 8 del Diplomado *Introducción Analítica a la Ciencia de Datos*. En él, analizamos la transición hacia energías renovables a partir de los datos obtenidos del *Statistical Review of World Energy* (Energy Institute) y del PIB per cápita del Banco Mundial.
-:::
-
-## Cifras clave del estudio {.text-center}
-
-::: {.grid}
-::: {.g-col-md-3 .g-col-6}
-<div class="stat-card"><div class="stat-num">78</div><div class="stat-lab">Países analizados</div></div>
-:::
-::: {.g-col-md-3 .g-col-6}
-<div class="stat-card"><div class="stat-num">1990–2025</div><div class="stat-lab">Periodo de estudio</div></div>
-:::
-::: {.g-col-md-3 .g-col-6}
-<div class="stat-card"><div class="stat-num">2,788</div><div class="stat-lab">Observaciones país-año</div></div>
-:::
-::: {.g-col-md-3 .g-col-6}
-<div class="stat-card"><div class="stat-num">4</div><div class="stat-lab">Fuentes integradas</div></div>
-:::
-:::
-
-## Explora el proyecto {.text-center}
-
-::: {.grid}
-::: {.g-col-md-6 .g-col-12}
-<div class="nav-card">
-<h3>📊 Bases de datos</h3>
-<p>Las fuentes utilizadas y su procedencia, con enlaces de descarga.</p>
-<a class="nav-btn" href="mis_reportes/bases_de_datos.qmd">Ver bases de datos</a>
-</div>
-:::
-::: {.g-col-md-6 .g-col-12}
-<div class="nav-card">
-<h3>📄 Reporte</h3>
-<p>El documento completo del análisis: problema, metodología, modelo y conclusiones.</p>
-<a class="nav-btn" href="mis_reportes/reporte.qmd">Leer el reporte</a>
-</div>
-:::
-::: {.g-col-md-6 .g-col-12}
-<div class="nav-card">
-<h3>📈 Dashboard</h3>
-<p>Visualización interactiva con el panorama, los patrones y la proyección a futuro.</p>
-<a class="nav-btn" href="mis_reportes/Proyecto_M8_DIACD_Dash_V1.html">Abrir el dashboard</a>
-</div>
-:::
-::: {.g-col-md-6 .g-col-12}
-<div class="nav-card">
-<h3>💻 Repositorio</h3>
-<p>Código, datos e instrucciones para reproducir todo el análisis.</p>
-<a class="nav-btn" href="https://github.com/AxelEduardoAlvaradoArce/Proyecto_Energias_Renovables">Ir a GitHub</a>
-</div>
-:::
-:::
-
-::: {.equipo}
-**Equipo 2** · Aguilera Yáñez Mariana · Alvarado Arce Axel Eduardo · Canseco Galván Tanivet Leonor · García Soto Kevin · Hernández Mareles Francisco Javier · Rendón Cardoso Karla · Suárez Urbano David Hiram
-:::
