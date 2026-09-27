@@ -11,7 +11,7 @@ page-layout: full
 :::
 
 ::: {.intro}
-Este sitio presenta el proyecto final del Módulo 8 del Diplomado *Introducción Analítica a la Ciencia de Datos*. Estudiamos **qué países han avanzado más rápido** en la adopción de energías renovables y **qué factores** —como el desarrollo económico— se relacionan con una mayor penetración renovable, integrando datos del *Statistical Review of World Energy* (Energy Institute) y del PIB per cápita del Banco Mundial.
+Este sitio presenta el proyecto final del Módulo 8 del Diplomado *Introducción Analítica a la Ciencia de Datos*. En él, analizamos la transición hacia energías renovables a partir de los datos obtenidos del *Statistical Review of World Energy* (Energy Institute) y del PIB per cápita del Banco Mundial.
 :::
 
 ## Cifras clave del estudio {.text-center}
