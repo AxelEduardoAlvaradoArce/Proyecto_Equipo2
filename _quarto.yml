@@ -8,6 +8,8 @@ project:
 website:
   title: "Transición hacia Energías Renovables"
   navbar:
+    background: "#285943"      # verde oscuro
+    foreground: "#FFFFFF"      # texto blanco
     left:
       - text: "Inicio"
         href: index.qmd
