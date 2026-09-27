@@ -22,6 +22,6 @@ website:
 
 format:
   html:
-    theme: flatly
+    theme: [flatly, estilos.scss]
     toc: true
     lang: es
