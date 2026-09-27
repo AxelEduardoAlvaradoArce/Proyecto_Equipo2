@@ -8,3 +8,9 @@ about:
       text: GitHub
       href: https://github.com/AxelEduardoAlvaradoArce/Proyecto_Energias_Renovables
 ---
+
+Este sitio presenta el proyecto final del Módulo 8 del Diplomado *Introducción Analítica a la Ciencia de Datos*. En él, analizamos la transición hacia las energías renovables a partir de datos del *Statistical Review of World Energy*, publicado por el Energy Institute, y del PIB per cápita del Banco Mundial.
+
+El estudio busca identificar qué países han avanzado con mayor rapidez en la adopción de fuentes renovables y explorar qué factores, como el nivel de desarrollo económico, se relacionan con una mayor penetración de estas fuentes. 
+
+En este sitio encontrarás las bases de datos utilizadas, el reporte completo del estudio y un dashboard interactivo que presenta sus principales resultados.
