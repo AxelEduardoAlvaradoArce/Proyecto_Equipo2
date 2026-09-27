@@ -1,6 +1,6 @@
 ---
 title: "Transición hacia Energías Renovables"
-image: foto_gato.jpg
+image: escudo_unam.png
 about:
   template: jolla
   links:
