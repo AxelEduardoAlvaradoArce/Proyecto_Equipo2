@@ -1,25 +1,95 @@
 ---
-title: "Transición hacia Energías Renovables"
-image: escudo-unam.jpg
-about:
-  template: jolla
-  links:
-    - icon: github
-      text: Repositorio
-      href: https://github.com/AxelEduardoAlvaradoArce/Proyecto_Energias_Renovables
+pagetitle: "Transición hacia Energías Renovables"
+toc: false
 ---
 
+<style>
+.portada {
+  text-align: center;
+  max-width: 860px;
+  margin: 48px auto 32px auto;
+}
+.titulo {
+  color: #285943 !important;
+  font-weight: 800;
+  font-size: 2.4rem;
+  border-bottom: none !important;
+  margin-bottom: 12px;
+}
+.subtitulo {
+  color: #4A5A50;
+  font-size: 1.2rem;
+  line-height: 1.5;
+  max-width: 640px;
+  margin: 0 auto 24px auto;
+}
+.escudo-circular {
+  width: 130px;
+  height: 130px;
+  border-radius: 50%;
+  object-fit: contain;
+  background: #FFFFFF;
+  display: block;
+  margin: 0 auto 24px auto;
+  border: 4px solid #DDEDE3;
+  box-shadow: 0 4px 14px rgba(40, 89, 67, 0.25);
+}
+.divisor {
+  width: 70px;
+  height: 3px;
+  background: #5B8E72;
+  margin: 0 auto 22px auto;
+  border-radius: 2px;
+}
+.institucional {
+  color: #6B7A70;
+  font-size: .98rem;
+  line-height: 1.6;
+}
+.cuerpo {
+  max-width: 780px;
+  margin: 0 auto;
+  font-size: 1.05rem;
+  line-height: 1.8;
+  text-align: justify;
+}
+.equipo {
+  max-width: 780px;
+  margin: 44px auto 0 auto;
+  padding-top: 18px;
+  border-top: 1px solid #E3ECE6;
+  color: #6B7A70;
+  font-size: .92rem;
+  text-align: center;
+}
+</style>
+
+::: {.portada}
+# Transición hacia Energías Renovables {.titulo}
+
+::: {.subtitulo}
 Análisis de la adopción de energías renovables y los factores que influyen en su avance.
+:::
 
-**Proyecto final del Módulo 8 "Comunicación de resultados"**
+<img src="escudo-unam.jpg" alt="Escudo UNAM" class="escudo-circular">
+
+::: {.divisor}
+:::
+
+::: {.institucional}
+Proyecto final del Módulo 8 "Comunicación de resultados"<br>
 Diplomado "Introducción Analítica a la Ciencia de Datos"
+:::
+:::
 
----
-
-Este sitio presenta el proyecto final del Módulo 8 del Diplomado "Introducción Analítica a la Ciencia de Datos". En él analizamos la transición hacia las energías renovables a partir de datos del *Statistical Review of World Energy* (Energy Institute) y del PIB per cápita del Banco Mundial.
+::: {.cuerpo}
+Este sitio presenta el proyecto final del Módulo 8 del Diplomado "Introducción Analítica a la Ciencia de Datos". En él, analizamos la transición hacia las energías renovables a partir de datos del Statistical Review of World Energy (Energy Institute) y del PIB per cápita del Banco Mundial.
 
 El estudio busca identificar qué países han avanzado con mayor rapidez en la adopción de fuentes renovables y explorar qué factores, como el nivel de desarrollo económico, se relacionan con una mayor penetración de estas fuentes.
 
 En este sitio encontrarás las bases de datos utilizadas, el reporte completo del estudio y un dashboard interactivo con los principales resultados.
+:::
 
-**Equipo 2:** Aguilera Yáñez Mariana, Alvarado Arce Axel Eduardo, Canseco Galván Tanivet Leonor, García Soto Kevin, Hernández Mareles Francisco Javier, Rendón Cardoso Karla y Suárez Urbano David Hiram.
+::: {.equipo}
+Equipo 2: Aguilera Yáñez Mariana, Alvarado Arce Axel Eduardo, Canseco Galván Tanivet Leonor, García Soto Kevin, Hernández Mareles Francisco Javier, Rendón Cardoso Karla y Suárez Urbano David Hiram.
+:::
