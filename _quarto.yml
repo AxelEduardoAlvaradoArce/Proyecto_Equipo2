@@ -3,7 +3,6 @@ project:
   render:
     - "**/*.qmd"
   resources:
-    resources:
     - mis_reportes/Proyecto_M8_DIACD_Dash_V1.html
     - mis_reportes/analisis_notebook.html
     - mis_reportes/Proyecto_Energias_Analisis.ipynb
@@ -19,7 +18,7 @@ website:
       - text: "Bases de datos"
         href: mis_reportes/bases_de_datos.qmd
       - text: "Reporte"
-        href: mis_reportes/bases_de_datos.qmd
+        href: mis_reportes/reporte.qmd
       - text: "Análisis"
         href: mis_reportes/analisis.qmd
       - text: "Dashboard"
