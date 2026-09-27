@@ -1,7 +1,9 @@
 project:
   type: website
+  render:
+    - "**/*.qmd"
   resources:
-    - mis_reportes/Reporte-modulo5.pdf
+    - mis_reportes/Proyecto_M8_DIACD_Dash_V1.html
 
 website:
   title: "Transición hacia Energías Renovables"
@@ -14,7 +16,7 @@ website:
       - text: "Reporte"
         href: mis_reportes/reporte.qmd
       - text: "Dashboard"
-        href: Proyecto_M8_DIACD_Dash_V1.Rmd
+        href: mis_reportes/Proyecto_M8_DIACD_Dash_V1.html
       - text: "Repositorio"
         href: https://github.com/AxelEduardoAlvaradoArce/Proyecto_Energias_Renovables
 
