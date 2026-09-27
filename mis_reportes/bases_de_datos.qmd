@@ -2,11 +2,11 @@
 title: "Bases de datos"
 ---
 
-Para este proyecto se utilizaron dos fuentes de datos públicas: el **Statistical Review of World Energy** (Energy Institute), para la información energética, y el indicador de **PIB per cápita** del **Banco Mundial**, para la variable económica. A continuación se describe cada base y se enlaza a su archivo en el repositorio.
+Para este proyecto se utilizaron dos fuentes de datos: el Statistical Review of World Energy (Energy Institute), para la información energética, y el indicador de PIB per cápita del Banco Mundial, para la información económica. A continuación se describimos cada base y se enlaza a su archivo en el repositorio.
 
 ## Fuentes de energía (Statistical Review of World Energy)
 
-De este archivo se seleccionaron tres hojas, cada una guardada como un CSV independiente:
+Información obtenida del Statistical Review of World Energy del Energy Institute, disponible en [ourworldindata.org/renewable-energy](https://ourworldindata.org/renewable-energy). Del archivo original se seleccionaron tres hojas, cada una guardada como un CSV independiente:
 
 ### TES per capita
 Suministro total de energía por habitante de cada país, año por año. Se usa como indicador de intensidad energética.
@@ -25,7 +25,9 @@ Generación total de electricidad de cada país y año, considerando todas las f
 
 ## Fuente económica (Banco Mundial)
 
+La información se obtuvo del portal de datos abiertos del Banco Mundial [datos.bancomundial.org](https://datos.bancomundial.org/indicador/NY.GDP.PCAP.PP.CD), donde el indicador `NY.GDP.PCAP.PP.CD` se descargó y guardó como un archivo CSV independiente.
+
 ### PIB per cápita, PPA
-PIB per cápita en paridad de poder adquisitivo de los países del mundo. Indicador `NY.GDP.PCAP.PP.CD`.
+PIB per cápita en paridad de poder adquisitivo de los países del mundo.
 
 [Descargar CSV](https://raw.githubusercontent.com/AxelEduardoAlvaradoArce/Proyecto_Energias_Renovables/main/pib_per_capita_ppp_raw.csv)
