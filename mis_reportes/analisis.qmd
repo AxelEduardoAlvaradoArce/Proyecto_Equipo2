@@ -45,9 +45,9 @@ El notebook obtiene de manera automática los cuatro archivos CSV con los datos 
 
 | Archivo | Fuente | Descripción |
 |---|---|---|
-| `tes_per_capita_raw.csv` | Energy Institute, *Statistical Review of World Energy* (hoja "TES per capita") | Suministro total de energía por habitante, expresado en gigajoules (GJ) |
-| `renovables_excl_hidro_raw.csv` | Energy Institute, *Statistical Review of World Energy* (hoja "Ren power (excl hydro) - TWh") | Generación de electricidad a partir de fuentes renovables, excluyendo la hidroeléctrica, expresada en teravatios-hora (TWh) |
-| `generacion_electrica_raw.csv` | Energy Institute, *Statistical Review of World Energy* (hoja "Electricity Generation - TWh") | Generación total de electricidad, expresada en teravatios-hora (TWh) |
-| `pib_per_capita_ppp_raw.csv` | Banco Mundial, Indicadores del Desarrollo Mundial (indicador NY.GDP.PCAP.PP.CD) | Producto interno bruto per cápita en paridad de poder adquisitivo (PPA), expresado en dólares internacionales corrientes |
+| `tes_per_capita_raw.csv` | Energy Institute, Statistical Review of World Energy (hoja "TES per capita") | Suministro total de energía por habitante, expresado en gigajoules (GJ) |
+| `renovables_excl_hidro_raw.csv` | Energy Institute, Statistical Review of World Energy (hoja "Ren power (excl hydro) - TWh") | Generación de electricidad a partir de fuentes renovables, excluyendo la hidroeléctrica, expresada en teravatios-hora (TWh) |
+| `generacion_electrica_raw.csv` | Energy Institute, Statistical Review of World Energy (hoja "Electricity Generation - TWh") | Generación total de electricidad, expresada en teravatios-hora (TWh) |
+| `pib_per_capita_ppp_raw.csv` | Banco Mundial, Indicadores del Desarrollo Mundial | Producto interno bruto per cápita en paridad de poder adquisitivo (PPA), expresado en dólares internacionales corrientes |
 
 A partir de estos archivos, el notebook limpia los datos, construye la base consolidada (78 países, 1990–2025), calcula la penetración renovable y la velocidad de transición, y ajusta los modelos Lasso y Ridge. Nuestros resultados son reproducibles ya que, la partición de los datos usa una semilla fija (`random_state=42`).
