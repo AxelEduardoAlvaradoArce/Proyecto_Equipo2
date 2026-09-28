@@ -1,20 +1,23 @@
 ---
 title: "Reporte del proyecto"
+resources:
+  - Reporte_Transicion_Hacia_Energias_Renovables.pdf
 ---
 
 Esta sección contiene el reporte completo del proyecto "Transición hacia Energías Renovables".
 
-El documento describe el proyecto de principio a fin. Abarca el problema y su contexto, las preguntas de investigación, los datos y su procedencia, el alcance del estudio, las principales decisiones de limpieza, la metodología, el modelo empleado,  los principales resultados y, finalmente, las conclusiones, las limitaciones y las posibles extensiones del trabajo.
+El documento describe el proyecto de principio a fin. Abarca el problema y su contexto, las preguntas de investigación, los datos y su procedencia, el alcance del estudio, las principales decisiones de limpieza, la metodología, el modelo empleado, los principales resultados y, finalmente, las conclusiones, las limitaciones y las posibles extensiones del trabajo.
 
 Puedes consultarlo directamente en el visor de abajo o descargarlo en PDF.
 
 <div style="text-align:center; margin: 18px 0;">
-  <a href="Reporte_Transicion_Hacia_Energias_Renovables.pdf" class="btn btn-primary" target="_blank"
+  <a href="Reporte_Transicion_Hacia_Energias_Renovables.pdf" class="btn btn-primary" target="_blank" rel="noopener" download
      style="background:#285943; border:none; padding:10px 22px; border-radius:8px; color:#fff; text-decoration:none; font-weight:600;">
      ⬇ Descargar reporte (PDF)
   </a>
 </div>
 
-<iframe src="reporte_energias.pdf" width="100%" height="850px"
+<iframe src="Reporte_Transicion_Hacia_Energias_Renovables.pdf" width="100%" height="850px"
         style="border:1px solid #DDE5E0; border-radius:8px;">
+  <p>Tu navegador no puede mostrar el PDF. <a href="Reporte_Transicion_Hacia_Energias_Renovables.pdf">Descárgalo aquí</a>.</p>
 </iframe>
