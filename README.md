@@ -35,7 +35,7 @@ Definimos la "penetración renovable" como la proporción de electricidad genera
 - **Dashboard** interactivo con los principales resultados.
 - **Sitio web** que reúne todo lo anterior.
 
-## Equipo (Equipo 2)
+## Equipo
 
 - Aguilera Yáñez Mariana
 - Alvarado Arce Axel Eduardo
