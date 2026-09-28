@@ -16,3 +16,38 @@ Esta sección contiene el notebook con el análisis completo del proyecto, que a
      Abrir en Colab
   </a>
 </div>
+
+## ¿Cómo reproducir el análisis?
+
+### En Google Colab.
+
+1. Abre el notebook con el botón (Abrir en Colab).
+2. Ejecuta todas las celdas desde (Entorno de ejecución + Ejecutar todo).
+
+No es necesario instalar nada: la primera celda instala `pycountry-convert` y el resto de las librerías ya vienen incluidas en Colab.
+
+### En un entorno local
+
+1. Clona el repositorio:
+```bash
+   git clone https://github.com/AxelEduardoAlvaradoArce/Proyecto_Energias_Renovables.git
+   cd Proyecto_Energias_Renovables
+```
+2. Instala las librerías necesarias (Python 3.10 o superior):
+```bash
+   pip install pandas numpy scipy matplotlib seaborn plotly scikit-learn pycountry-convert jupyter
+```
+3. Abre `Proyecto_Transicion_Hacia_Energias_Renovables.ipynb` con Jupyter y ejecuta todas las celdas en orden.
+
+### Datos
+
+El notebook obtiene de manera automática los cuatro archivos CSV con los datos originales, almacenados en el repositorio del proyecto; por lo tanto, únicamente se requiere conexión a internet para su ejecución. Los archivos utilizados son los siguientes:
+
+| Archivo | Fuente | Descripción |
+|---|---|---|
+| `tes_per_capita_raw.csv` | Energy Institute, *Statistical Review of World Energy* (hoja "TES per capita") | Suministro total de energía por habitante, expresado en gigajoules (GJ) |
+| `renovables_excl_hidro_raw.csv` | Energy Institute, *Statistical Review of World Energy* (hoja "Ren power (excl hydro) - TWh") | Generación de electricidad a partir de fuentes renovables, excluyendo la hidroeléctrica, expresada en teravatios-hora (TWh) |
+| `generacion_electrica_raw.csv` | Energy Institute, *Statistical Review of World Energy* (hoja "Electricity Generation - TWh") | Generación total de electricidad, expresada en teravatios-hora (TWh) |
+| `pib_per_capita_ppp_raw.csv` | Banco Mundial, Indicadores del Desarrollo Mundial (indicador NY.GDP.PCAP.PP.CD) | Producto interno bruto per cápita en paridad de poder adquisitivo (PPA), expresado en dólares internacionales corrientes |
+
+A partir de estos archivos, el notebook limpia los datos, construye la base consolidada (78 países, 1990–2025), calcula la penetración renovable y la velocidad de transición, y ajusta los modelos Lasso y Ridge. Nuestros resultados son reproducibles ya que, la partición de los datos usa una semilla fija (`random_state=42`).
