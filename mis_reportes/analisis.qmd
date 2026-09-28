@@ -10,7 +10,7 @@ Esta sección contiene el notebook con el análisis completo del proyecto, que a
      style="background:#285943; color:#fff; padding:12px 24px; border-radius:8px; text-decoration:none; font-weight:600; margin:4px;">
      Ver el notebook en GitHub
   </a>
-  <a href="https://colab.research.google.com/drive/15a7QZhecJazQjVU7Zs8bv68NN9CbhQb0"
+  <a href="https://drive.google.com/file/d/1strUP-CcnmB8p6Djdq40EN4Y9ajgyp6J/view?usp=sharing"
      target="_blank" class="btn"
      style="background:#285943; color:#fff; padding:12px 24px; border-radius:8px; text-decoration:none; font-weight:600; margin:4px;">
      Abrir en Colab
