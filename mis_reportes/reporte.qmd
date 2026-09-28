@@ -9,7 +9,7 @@ El documento describe el proyecto de principio a fin. Abarca el problema y su co
 Puedes consultarlo directamente en el visor de abajo o descargarlo en PDF.
 
 <div style="text-align:center; margin: 18px 0;">
-  <a href="Reporte-modulo5.pdf" class="btn btn-primary" target="_blank"
+  <a href="Reporte_Transicion_Hacia_Energias_Renovables.pdf" class="btn btn-primary" target="_blank"
      style="background:#285943; border:none; padding:10px 22px; border-radius:8px; color:#fff; text-decoration:none; font-weight:600;">
      ⬇ Descargar reporte (PDF)
   </a>
