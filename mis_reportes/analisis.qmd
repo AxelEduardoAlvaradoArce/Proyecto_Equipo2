@@ -5,13 +5,13 @@ title: "Notebook"
 Esta sección contiene el notebook con el análisis completo del proyecto, que abarca la obtención y limpieza de los datos, su exploración, la construcción de la variable objetivo y el modelado.
 
 <div style="text-align:center; margin:24px 0;">
-  <a href="https://github.com/AxelEduardoAlvaradoArce/Proyecto_Energias_Renovables/blob/main/Proyecto_Energias_Analisis.ipynb"
-     target="_blank" class="btn"
+  <a href="https://github.com/AxelEduardoAlvaradoArce/Proyecto_Energias_Renovables/blob/main/Proyecto_Transicion_Hacia_Energias_Renovables.ipynb"
+     target="_blank" rel="noopener" class="btn"
      style="background:#285943; color:#fff; padding:12px 24px; border-radius:8px; text-decoration:none; font-weight:600; margin:4px;">
      Ver el notebook en GitHub
   </a>
-  <a href="https://drive.google.com/file/d/1strUP-CcnmB8p6Djdq40EN4Y9ajgyp6J/view?usp=sharing"
-     target="_blank" class="btn"
+  <a href="https://colab.research.google.com/github/AxelEduardoAlvaradoArce/Proyecto_Energias_Renovables/blob/main/Proyecto_Transicion_Hacia_Energias_Renovables.ipynb"
+     target="_blank" rel="noopener" class="btn"
      style="background:#285943; color:#fff; padding:12px 24px; border-radius:8px; text-decoration:none; font-weight:600; margin:4px;">
      Abrir en Colab
   </a>
