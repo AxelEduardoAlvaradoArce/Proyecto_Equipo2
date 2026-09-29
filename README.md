@@ -20,15 +20,6 @@ Definimos la "penetración renovable" como la proporción de electricidad genera
 - **Statistical Review of World Energy (Energy Institute)**: Contiene información energética (TES per cápita, generación renovable sin hidroeléctrica, generación eléctrica total).
 - **Banco Mundial**: Contiene el PIB per cápita en paridad de poder adquisitivo.
 
-## Cómo reproducir el análisis
-
-1. Abre el notebook `Proyecto_Energias_Analisis.ipynb` en Google Colab o en un entorno local con Jupyter.
-2. Instala las librerías necesarias:
-   ```bash
-   pip install pandas numpy matplotlib seaborn scikit-learn plotly
-   ```
-3. Ejecuta el notebook de principio a fin (Entorno de ejecución + Ejecutar todo). El notebook descarga los datos crudos directamente desde este repositorio, los limpia, construye la base consolidada y ajusta los modelos.
-
 ## Entregables
 
 - **Reporte** del proyecto (documento con problema, metodología, modelo, resultados y conclusiones).
