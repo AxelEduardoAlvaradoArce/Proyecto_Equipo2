@@ -19,24 +19,28 @@ Esta sección contiene el notebook con el análisis completo del proyecto, que a
 
 ## ¿Cómo reproducir el análisis?
 
-### En Google Colab.
+### En Google Colab
 
-1. Abre el notebook con el botón (Abrir en Colab).
-2. Ejecuta todas las celdas desde (Entorno de ejecución + Ejecutar todo).
+1. Abre el notebook con el botón **Abrir en Colab**.
+2. Ejecuta todas las celdas desde **Entorno de ejecución → Ejecutar todo**.
 
 No es necesario instalar nada: la primera celda instala `pycountry-convert` y el resto de las librerías ya vienen incluidas en Colab.
 
 ### En un entorno local
 
 1. Clona el repositorio:
+
 ```bash
-   git clone https://github.com/AxelEduardoAlvaradoArce/Proyecto_Energias_Renovables.git
-   cd Proyecto_Energias_Renovables
+    git clone https://github.com/AxelEduardoAlvaradoArce/Proyecto_Energias_Renovables.git
+    cd Proyecto_Energias_Renovables
 ```
+
 2. Instala las librerías necesarias (Python 3.10 o superior):
+
 ```bash
-   pip install pandas numpy scipy matplotlib seaborn plotly scikit-learn pycountry-convert jupyter
+    pip install -r requirements.txt
 ```
+
 3. Abre `Proyecto_Transicion_Hacia_Energias_Renovables.ipynb` con Jupyter y ejecuta todas las celdas en orden.
 
 ### Datos
