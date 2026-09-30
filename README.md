@@ -4,6 +4,21 @@ Análisis de la adopción global de energías renovables y de los factores asoci
 
 **Sitio del proyecto:** https://axeleduardoalvaradoarce.github.io/Proyecto_Equipo2/
 
+## Equipo
+
+- Aguilera Yáñez Mariana
+- Alvarado Arce Axel Eduardo
+- Canseco Galván Tanivet Leonor
+- García Soto Kevin
+- Hernández Mareles Francisco Javier
+- Rendón Cardoso Karla
+- Suárez Urbano David Hiram
+
+## Ponentes del módulo
+
+- Claudia Juárez
+- Eduardo Selim
+
 ---
 
 ## Descripción del proyecto
@@ -89,21 +104,6 @@ Los archivos `.qmd` se convierten en páginas HTML al renderizar el sitio con `q
     ```
 
 El notebook descarga los datos desde GitHub, por lo que se requiere conexión a internet. La partición de los datos usa una semilla fija (`random_state=42`), así que los resultados son reproducibles. Las instrucciones detalladas están en la sección [Análisis](https://axeleduardoalvaradoarce.github.io/Proyecto_Equipo2/mis_reportes/analisis.html) del sitio.
-
-## Equipo
-
-- Aguilera Yáñez Mariana
-- Alvarado Arce Axel Eduardo
-- Canseco Galván Tanivet Leonor
-- García Soto Kevin
-- Hernández Mareles Francisco Javier
-- Rendón Cardoso Karla
-- Suárez Urbano David Hiram
-
-## Ponentes del módulo
-
-- Claudia Juárez
-- Eduardo Selim
 
 ## Nota
 
