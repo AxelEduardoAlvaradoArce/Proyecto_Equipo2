@@ -40,7 +40,7 @@ Contiene las Bases de datos que utilizamos, los cuatro archivos originales, tal 
 
 | Archivo | Descripción | Fuente |
 |---|---|---|
-| `Proyecto_Transicion_Hacia_Energias_Renovables.ipynb` | Notebook con el análisis completo: obtención y limpieza de los datos, análisis exploratorio, cálculo de la penetración renovable y de la velocidad de transición, modelos Lasso y Ridge, diagnóstico y proyección a 2035. | — |
+| `Proyecto_Transicion_Hacia_Energias_Renovables.ipynb` | Notebook con el análisis completo: obtención y limpieza de los datos, análisis exploratorio, cálculo de la penetración renovable y de la velocidad de transición, modelos Lasso y Ridge, diagnóstico y proyección a 2035. |  |
 | `tes_per_capita_raw.csv` | Suministro total de energía por habitante, en gigajoules (GJ). | Energy Institute, *Statistical Review of World Energy* (hoja "TES per capita") |
 | `renovables_excl_hidro_raw.csv` | Generación de electricidad con fuentes renovables, excluyendo la hidroeléctrica, en teravatios-hora (TWh). | Energy Institute, *Statistical Review of World Energy* (hoja "Ren power (excl hydro) - TWh") |
 | `generacion_electrica_raw.csv` | Generación total de electricidad, en teravatios-hora (TWh). | Energy Institute, *Statistical Review of World Energy* (hoja "Electricity Generation - TWh") |
