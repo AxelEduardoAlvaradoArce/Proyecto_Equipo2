@@ -1,5 +1,7 @@
 ## Contenido
 
+Esta carpeta contiene las bases de datos utilizadas para el desarrollo del proyecto. A continuación, se describe el contenido de cada archivo, así como las fuentes de las que se obtuvieron los datos.
+
 | Archivo | Descripción |
 |---|---|
 | `Proyecto_Transicion_Hacia_Energias_Renovables.ipynb` | Notebook con el análisis completo: obtención y limpieza de los datos, análisis exploratorio, cálculo de la penetración renovable y de la velocidad de transición, modelos Lasso y Ridge, diagnóstico y proyección a 2035. |
