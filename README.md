@@ -65,6 +65,18 @@ Contiene las páginas internas del sitio y los archivos que se muestran en ellas
 
 Los archivos `.qmd` se convierten en páginas HTML al renderizar el sitio con `quarto render`, y el flujo de GitHub Actions lo hace automáticamente con cada cambio en la rama `main`. El PDF y el dashboard no se generan con Quarto, se copian tal cual al sitio porque están declarados en la sección `resources` de `_quarto.yml`.
 
+### Archivos base del proyecto
+
+| Archivo | Descripción |
+|---|---|
+| `README.md` | Describe el proyecto, la estructura del repositorio y cómo reproducir el análisis. |
+| `_quarto.yml` | Contiene la configuración del sitio: título, menú de navegación, tema visual, páginas que se renderizan y archivos que se copian tal cual al sitio (`resources`). |
+| `index.qmd` | Página de inicio del sitio con la presentación general del proyecto. |
+| `estilos.scss` | Hoja de estilos personalizada que complementa el tema `flatly` de Quarto. |
+| `escudo-unam.jpg` | Escudo de la UNAM que se muestra en el sitio. |
+| `requirements.txt` | Librerías de Python necesarias para ejecutar el notebook y construir el sitio, el flujo de publicación las instala antes de renderizar. |
+| `DESCRIPTION` | Archivo con las dependencias necesarias para preparar el entorno de R al momento de publicar el proyecto. |
+
 ## Reproducir el análisis
 
 - **En Google Colab:** abre el notebook desde la sección [Análisis](https://axeleduardoalvaradoarce.github.io/Proyecto_Equipo2/mis_reportes/analisis.html) del sitio y ejecuta todas las celdas desde **Entorno de ejecución → Ejecutar todo**. No es necesario instalar nada.
