@@ -41,6 +41,10 @@ Definimos la "penetración renovable" como la proporción de electricidad genera
 - Claudia Juárez
 - Eduardo Selim
 
+## Nota
+
+En este proyecto se utilizó inteligencia artificial como herramienta auxiliar durante el desarrollo del trabajo, principalmente para apoyar en la revisión, organización y comprensión de información, así como en la resolución de dudas relacionadas con el proyecto. El contenido final fue revisado y validado por los integrantes del equipo, quienes son responsables de los resultados y conclusiones presentados.
+
 ---
 
 *Diplomado Introducción Analítica a la Ciencia de Datos, Facultad de Ciencias, UNAM, 2026*
