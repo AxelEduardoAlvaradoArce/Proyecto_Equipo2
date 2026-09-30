@@ -24,7 +24,7 @@ website:
       - text: "Dashboard"
         href: mis_reportes/Dashboard_Energias_Renovables.html
       - text: "Repositorio"
-        href: https://github.com/AxelEduardoAlvaradoArce/Proyecto_Energias_Renovables
+        href: https://github.com/AxelEduardoAlvaradoArce/Proyecto_Equipo2
 
 format:
   html:
